@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... by email - not sharing yet
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I met Buzz Aldrin
+- ⚡ Fun fact: ... I have met Buzz Aldrin
 
 <!---
 CJonelis/CJonelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
